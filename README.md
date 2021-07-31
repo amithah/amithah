@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amitha
+- 👋 Hi, I’m amitha
 - 👀 I’m interested in HTML, CSS, Javascript, Python and Django
 - 🌱 I’m currently learning ReactJS 
 - 💞️ I’m looking to collaborate on Django projects
