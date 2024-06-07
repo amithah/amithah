@@ -22,11 +22,11 @@ Dive into my GitHub to explore my MERN stack projects, and let's connect to expl
 
 <h3>Stats</h3>
 
-![Amitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amithah&show_icons=true&theme=radical)
+![Amitha's GitHub stats](https://github-readme-stats-six-mocha-55.vercel.app/api?username=amithah&show_icons=true&theme=radical)
 
 <h3>Most Used</h3>
 
-[![Amitha's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=amithah&theme=algolia&show_icons=true)](https://github.com/amitha)
+[![Amitha's GitHub stats](https://github-readme-stats-six-mocha-55.vercel.app/api/top-langs?username=amithah&theme=algolia&show_icons=true)](https://github.com/amitha)
 
 <h3>Git profile Trophies</h3>
 
