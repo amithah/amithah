@@ -20,9 +20,6 @@ Dive into my GitHub to explore my MERN stack projects, and let's connect to expl
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,postman,notion&theme=light)](https://skillicons.dev)
 
-<h3>Stats</h3>
-
-![Amitha's GitHub stats](https://github-readme-stats-six-mocha-55.vercel.app/api?username=amithah&show_icons=true&theme=radical)
 
 <h3>Most Used</h3>
 
