@@ -21,13 +21,6 @@ Dive into my GitHub to explore my MERN stack projects, and let's connect to expl
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,postman,notion&theme=light)](https://skillicons.dev)
 
 
-<h3>Most Used</h3>
-
-[![Amitha's GitHub stats](https://github-readme-stats-six-mocha-55.vercel.app/api/top-langs?username=amithah&theme=algolia&show_icons=true)](https://github.com/amitha)
-
-<h3>Git profile Trophies</h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amithah&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 amithah/amithah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
